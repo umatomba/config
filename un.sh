@@ -2,3 +2,4 @@
 
 unzip container.zip
 cat .bashrc >> ~/.bashrc
+. ~/.bashrc
